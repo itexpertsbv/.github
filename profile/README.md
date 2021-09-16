@@ -33,7 +33,7 @@ If needed we can set up secure VPN connections for your employees so they can ea
 
 ### 🌤  Cloud
 Still use on premise fileservers or dedicated email servers? We can help you migrate your business into the cloud. This reduces costs and improves
-stability and availability. We provice Office 365 licences and connect this with secure logins for you network and devices.
+stability and availability. We can provide Office 365 licences and connect this with secure logins for you network and devices.
 
 ### 🎨  Webdevelopment
 If your business ready for a (new) website? We have you covered! We can provide the hosting, design, development ánd maintainance of your website.
