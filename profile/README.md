@@ -36,8 +36,8 @@ Still use on premise fileservers or dedicated email servers? We can help you mig
 stability and availability. We can provide Office 365 licences and connect this with secure logins for you network and devices.
 
 ### 🎨  Webdevelopment
-If your business ready for a (new) website? We have you covered! We can provide the hosting, design, development ánd maintainance of your website.
-Once up and running, we continuosly monitor performance (bot physical and seo) and keep on tweaking where needed.
+Is your business ready for a (new) website? We have you covered! We can provide the hosting, design, development ánd maintainance of your website.
+Once up and running, we continuously monitor performance (both physical and seo) and keep on tweaking where needed.
 
 ### 📈  Aident - MORE INSIGHT, LESS ADMINISTRATION
 Aident is a smart, online platform that helps you run an efficient and fully digital administration. Get faster insight into your numbers and activities.
@@ -66,15 +66,3 @@ our customers on-premise and cloud infrastructure. Your job will be extremely va
 You don't need three master graduations to get started at IT Experts. Who do we look for? Someone with a passion for everyting around technology and a born problem solver.
 
 👉 [Full job description](https://www.itexperts.be/jobs/IT%20System%20Engineer) (Dutch)
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
