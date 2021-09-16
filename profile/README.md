@@ -7,7 +7,7 @@ Hi there 👋 We are IT Experts
 </h1>
 
 <p align="center">
-We are a full service IT provider with a focus on unburdening organisation from their IT needs.
+We are a full service IT provider with a focus on unburdening organisations from their IT needs.
 When you get into business with IT Experts, we aim to set up and maintain your infrastructure in the most efficient way and you won't even notice.
 Our support team is always ready to catch fires and make sure everything runs smoothly.
 </p>
