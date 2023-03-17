@@ -1,5 +1,5 @@
 {
-  "settingsReloadIntervalMinutes": 10,
+  "settingsReloadIntervalMinutes": 14,
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": false,
@@ -26,14 +26,24 @@
       "tabReloadIntervalSeconds": 300
     },
     {
+      "url": "http://10.210.1.133:3000/d/1RfkuZKnk/aident-sales-documents?orgId=1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
       "url": "https://github.com/orgs/itexpertsbv/projects/2",
       "duration": 60,
       "tabReloadIntervalSeconds": 300
     },
-{
-    "url": "https://nowplayi.ng/playing.php",
-    "duration": 90,
-    "tabReloadIntervalSeconds": 0
-}
+    {
+      "url": "http://10.99.0.100:8090/",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+        "url": "https://nowplayi.ng/playing.php",
+        "duration": 90,
+        "tabReloadIntervalSeconds": 0
+    }
   ]
 }
